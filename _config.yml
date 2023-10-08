@@ -1,3 +1,18 @@
-theme: jekyll-theme-minimal
-title: Goswamig's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site settings
+title: Gautam Goswami blog
+email: 
+description: "Musings of a Computer Scientist."
+baseurl: ""
+url: "http://goswamig.github.io"
+twitter_username: gautam5669
+github_username:  goswamig
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
